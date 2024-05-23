@@ -122,8 +122,8 @@ const renderSettings = {
         heat: "#2040ff80",
 
         meteor: "#c08000e0",
-        ghost: "#20a040e0",
-        blueFire: "#40545454",
+        ghost: "#000000e0",
+        blueFire: "#54545440",
         shield: "#383838e0",
         frost: "#00ffff40",
         tail: "#d0a020e0",
@@ -131,7 +131,7 @@ const renderSettings = {
         shrink: "#000000",
         bombParticle: "#d0100010",
         explosion: "#00000008",
-        ghostParticles: "#40a040c0",
+        ghostParticles: "#000000c0",
         refuel: "#ffff00c0",
         jetpack: "#c0c0c020",
 
