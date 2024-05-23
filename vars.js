@@ -286,7 +286,7 @@ const renderSettings = {
                 offset: [-1.05, -1.4],
                 textOffset: -1.3,
                 size: [2.0, 2.0],
-                texture: loadImage("https://skap.io/textures/hats/sakura")
+                texture: loadImage("https://skap.io/textures/hats/sakura.png")
             },
             cowboy: {
                 offset: [-1.6, -2.4],
