@@ -174,7 +174,7 @@ const renderSettings = {
             harmless: loadImage("enemies/harmless.svg"),
             accelerator: loadImage("enemies/accelerator.svg"),
             decelerator: loadImage("enemies/decelerator.svg"),
-            drainer: loadImage("enemies/drainer.svg"),
+            drainer: loadImage("enemies/casohdrainer.png"),
             disabler: loadImage("enemies/disabler.svg"),
 
             none: loadImage("enemies/none.svg")
