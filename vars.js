@@ -338,7 +338,6 @@ const renderSettings = {
             NKY5223: loadImage("skins/NKY.png"),*/
             "star.": loadImage("skins/star.png"),
             haha0201: loadImage("skins/kinda_pro.png"),
-            Star: loadImage("skins/vqlh.png"),
             ZeroTix: loadImage("skins/zerotixpro.png"),
             wolfie: loadImage("skins/wolfer.png"),
             wolfer: loadImage("skins/wolfer.png"),
