@@ -213,7 +213,7 @@ const renderSettings = {
             militaryHat: {
                 offset: [0, 0],
                 textOffset: -1.9,
-                size: [3, 3],
+                size: [4, 4],
                 texture: loadImage("fire.jpeg")
             },
             nookyHat: {
