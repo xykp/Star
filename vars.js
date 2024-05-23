@@ -107,9 +107,9 @@ const renderSettings = {
         drainerRegion: "#00000020",
         drainerDrainingRegion: "#ffc00020",
 
-        playerDead: "#ff000026",
-        playerFreeze: "#00ffff26",
-        playerFreezeDead: "#8e7cc326",
+        playerDead: "#ff000080",
+        playerFreeze: "#00ffff80",
+        playerFreezeDead: "#8e7cc380",
 
         playerDeadText: "#00ffff",
         playerFreezeText: "#ff0000",
