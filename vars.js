@@ -123,7 +123,7 @@ const renderSettings = {
 
         meteor: "#c08000e0",
         ghost: "#20a040e0",
-        blueFire: "#00000000",
+        blueFire: "#40000000",
         shield: "#383838e0",
         frost: "#00ffff40",
         tail: "#d0a020e0",
