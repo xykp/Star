@@ -347,7 +347,7 @@ const renderSettings = {
             SClientOfficial: loadImage("skins/SkapClientOfficial.svg"),
             SkapClientAdmin: loadImage("skins/SkapClientOfficial.svg")
         },
-        trail: loadImage(`https://skap.io/textures/particles/${["blackHeart".png`),
+        trail: loadImage(`https://skap.io/textures/particles/${["apple", "blackHeart", "greyPaw", "heart", "pinkPaw", "sparkles", "whitePaw"][Math.floor(Math.random() * 7)]}.png`),
         skapclient: loadImage("./skapclient.svg", true),
         iconSize: {
             x: 2,
