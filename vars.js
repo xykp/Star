@@ -128,7 +128,7 @@ const renderSettings = {
         frost: "#00ffff40",
         tail: "#d0a020e0",
         dash: "#00ffc0c0",
-        shrink: "#b000ff",
+        shrink: "#000000",
         bombParticle: "#d0100010",
         explosion: "#00000008",
         ghostParticles: "#40a040c0",
