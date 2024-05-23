@@ -127,7 +127,7 @@ const renderSettings = {
         shield: "#383838e0",
         frost: "#00ffff40",
         tail: "#d0a020e0",
-        dash: "#00ffc0c0",
+        dash: "#bcbcbcc0",
         shrink: "#000000",
         bombParticle: "#d0100010",
         explosion: "#00000008",
