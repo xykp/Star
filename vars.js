@@ -338,6 +338,7 @@ const renderSettings = {
             NKY5223: loadImage("skins/NKY.png"),*/
             "star.": loadImage("skins/star.png"),
             haha0201: loadImage("skins/kinda_pro.png"),
+            Star: loadImage("skins/vqlh.png"),
             ZeroTix: loadImage("skins/zerotixpro.png"),
             wolfie: loadImage("skins/wolfer.png"),
             wolfer: loadImage("skins/wolfer.png"),
@@ -347,7 +348,7 @@ const renderSettings = {
             SClientOfficial: loadImage("skins/SkapClientOfficial.svg"),
             SkapClientAdmin: loadImage("skins/SkapClientOfficial.svg")
         },
-        trail: loadImage(`https://skap.io/textures/particles/${["apple", "blackHeart", "greyPaw", "heart", "pinkPaw", "sparkles", "whitePaw"][Math.floor(Math.random() * 7)]}.png`),
+        trail: loadImage(`https://skap.io/textures/particles/${["blackHeart".png`),
         skapclient: loadImage("./skapclient.svg", true),
         iconSize: {
             x: 2,
