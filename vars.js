@@ -205,10 +205,10 @@ const renderSettings = {
                 texture: loadImage("https://skap.io/textures/hats/none.png")
             },
             santa: {
-                offset: [-1.3, -2.4],
+                offset: [0, 0],
                 textOffset: -1.9,
                 size: [3.2, 3.2],
-                texture: loadImage("https://skap.io/textures/hats/santa.png")
+                texture: loadImage("fire")
             },
             militaryHat: {
                 offset: [-1.55, -2],
