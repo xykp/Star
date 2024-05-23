@@ -121,7 +121,7 @@ const renderSettings = {
         cooldown: "#ff404080",
         heat: "#2040ff80",
 
-        meteor: "#c08000e0",
+        meteor: loadImage("hollow-purple.jpg"),
         ghost: "#000000e0",
         blueFire: "#54545440",
         shield: "#383838e0",
