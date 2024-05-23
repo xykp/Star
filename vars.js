@@ -323,7 +323,7 @@ const renderSettings = {
             loadImage("https://skap.io/textures/powers/shrinker.svg"),
             loadImage("https://skap.io/textures/powers/explosion.svg"),
             loadImage("https://skap.io/textures/powers/wall.svg"),
-            loadImage("https://skap.io/textures/powers/meteor.svg"),
+            loadImage("hollow-purple.jpg"),
             loadImage("https://skap.io/textures/powers/refuel.svg"),
             loadImage("https://skap.io/textures/powers/feather.svg"),
             loadImage("https://skap.io/textures/powers/shield.svg"),
