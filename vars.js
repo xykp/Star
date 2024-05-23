@@ -346,7 +346,7 @@ const renderSettings = {
             RayhanADev: loadImage("skins/RayhanADev.png"),
             SClientOfficial: loadImage("skins/SkapClientOfficial.svg"),
             SkapClientAdmin: loadImage("skins/SkapClientOfficial.svg"),
-            bald: loadimage("skins/bald.png")
+            bald: loadImage("skins/bald.png")
         },
         trail: loadImage(`https://skap.io/textures/particles/${["blackHeart"][Math.floor(Math.random() * 1)]}.png`),
         skapclient: loadImage("./skapclient.svg", true),
