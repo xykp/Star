@@ -211,10 +211,10 @@ const renderSettings = {
                 texture: loadImage("https://skap.io/textures/hats/santa.png")
             },
             militaryHat: {
-                offset: [0, 0],
+                offset: [-1.55, -2],
                 textOffset: -1.9,
                 size: [4, 4],
-                texture: loadImage("fire.jpeg")
+                texture: loadImage("https://skap.io/textures/hats/militarHat.png")
             },
             nookyHat: {
                 offset: [-1.2, -2.8],
